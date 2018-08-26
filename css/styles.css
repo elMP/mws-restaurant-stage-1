@@ -280,6 +280,11 @@ nav h1 a {
   color: #666;
 }
 
+/* ====================== error page styles ====================== */
+.error {
+  padding: 10px;
+}
+
 /* ====================== responsive styles ====================== */
 @media (min-width: 560px) {
   .filter-options {
